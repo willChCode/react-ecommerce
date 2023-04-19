@@ -1,6 +1,5 @@
-function App() {
-  return;
-  <h1>ECOMMERCE</h1>;
-}
+import React from 'react';
 
-export default App;
+export default function App() {
+  return <div className='text-black font-bold'>App</div>;
+}
