@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Conten() {
-  return <div>Conten</div>;
+  return <div className='content'>Content</div>;
 }
